@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+import matplotlib.image as img
+from google.colab.patches import cv2_imshow
+
+image = img.imread('/content/drive/MyDrive/apps/images/horse.jpg')
+plt.imshow(image)
+plt.show()
+
