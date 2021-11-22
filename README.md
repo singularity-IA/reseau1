@@ -1,10 +1,5 @@
 # reseau1
-azertio
-#----------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 14th August 2019
-#----------------------------------------------
+---------------------------------------
 
 import numpy as np
 import tensorflow as tf
