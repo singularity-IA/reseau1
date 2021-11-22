@@ -1,5 +1,6 @@
 # reseau1
 ---------------------------------------
+![image](https://user-images.githubusercontent.com/94720912/142868824-5a21a559-86e4-4c84-b040-ca195c5d967b.png)
 
 import numpy as np
 import tensorflow as tf
